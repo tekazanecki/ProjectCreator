@@ -2,7 +2,9 @@
 
 ProjectCreator is a GUI application written in Python that simplifies the creation of new projects with local and remote git repositories, virtual environments, `.gitignore`, and `requirements.txt` files. The application is built using `ttkbootstrap` for interface styling.
 
-![Screenshot](images/screenshot.png)
+![Screenshot](images/screenshot_clear.png)
+
+![Screenshot](images/screenshot_in_run.png)
 
 ## Table of Contents
 
